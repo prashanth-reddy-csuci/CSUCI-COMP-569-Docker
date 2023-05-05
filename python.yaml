@@ -4,5 +4,5 @@ metadata:
   name: python-pod
 spec:
   containers:
-  - name: python-3.10
+  - name: 3-10-python
     image: python:3.10-slim
